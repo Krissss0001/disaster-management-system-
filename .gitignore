@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local Environment & Secrets
+.env
+
+# SQLite local databases
+*.db
+*.sqlite3
+
+# OS metadata
+.DS_Store
+Thumbs.db
